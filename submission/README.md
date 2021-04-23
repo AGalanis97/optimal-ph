@@ -1,5 +1,4 @@
-# Add-Your-Team-Name-Here
-
+# Kanbangaroos
 Our team is from ... and we think proteins are cool 🙌
 
 ### Project Description
